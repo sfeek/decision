@@ -1,0 +1,4 @@
+decision
+========
+
+Decision making helper
